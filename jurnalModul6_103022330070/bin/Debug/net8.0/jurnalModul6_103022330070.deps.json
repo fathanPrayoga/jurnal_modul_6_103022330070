@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "jurnalModul6_103022330070/1.0.0": {
+        "runtime": {
+          "jurnalModul6_103022330070.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jurnalModul6_103022330070/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

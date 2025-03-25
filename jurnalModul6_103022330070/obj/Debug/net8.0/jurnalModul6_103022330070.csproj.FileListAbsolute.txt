@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\bin\Debug\net8.0\jurnalModul6_103022330070.exe
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\bin\Debug\net8.0\jurnalModul6_103022330070.deps.json
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\bin\Debug\net8.0\jurnalModul6_103022330070.runtimeconfig.json
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\bin\Debug\net8.0\jurnalModul6_103022330070.dll
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\bin\Debug\net8.0\jurnalModul6_103022330070.pdb
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.sourcelink.json
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.dll
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\refint\jurnalModul6_103022330070.dll
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.pdb
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\jurnalModul6_103022330070.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\jurnalModul6_103022330070\jurnalModul6_103022330070\obj\Debug\net8.0\ref\jurnalModul6_103022330070.dll
