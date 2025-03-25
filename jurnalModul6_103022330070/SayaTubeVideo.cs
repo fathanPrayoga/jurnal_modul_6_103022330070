@@ -16,6 +16,14 @@ namespace jurnalModul6_103022330070
 
         public SayaTubeVideo(String title)
         {
+            if (title == null)
+            {
+                throw new ArgumentNullException(nameof(title), "Judul film tidak boleh kosong.");
+            }
+            if (title.Length > 100)
+            {
+                throw new ArgumentNullException("Judul film tidak boleh kosong.", nameof(title));
+            }
             Random random = new Random();
             this.id = random.Next(10000, 1000000);
             this.title = title;
@@ -24,7 +32,27 @@ namespace jurnalModul6_103022330070
 
         public void IncreasePlayCount(int count)
         {
-            this.Playcount += count;
+            if(count <= 0)
+            {
+                throw new ArgumentException("Play count tidak boleh negatif", nameof(count));
+            }
+            if(count > 25000000)
+            {
+                throw new ArgumentException("Play count tidak boleh lebih dari 25jt", nameof(count));
+            }
+            try
+            {
+                checked
+                {
+                    this.Playcount += count;
+                }
+            }
+            catch (OverflowException ex)
+            {
+                Console.WriteLine($"overflow terjadi: {ex.Message}");
+                this.Playcount += int.MaxValue;
+            }
+            
         }
 
         public void PrintVideoDetails()

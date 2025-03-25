@@ -7,6 +7,24 @@ class Program
     {
         SayaTubeUser user = new SayaTubeUser("Fathan Prayoga Wicaksono");
 
+        try
+        {
+            SayaTubeVideo video1 = new SayaTubeVideo("judul film sangat panjang");
+        }
+        catch(ArgumentException ex)
+        {
+            Console.WriteLine($"eror: {ex.Message}");
+        }
+        try
+        {
+            SayaTubeVideo video2 = new SayaTubeVideo(null);
+        }
+        catch (ArgumentNullException ex)
+        {
+            Console.WriteLine($"eror: {ex.Message}");
+        }
+
+
         string[] judulFilm =
         {
             "Review film Suster ngesot oleh Fathan Prayoga Wicaksono",

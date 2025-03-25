@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jurnalModul6_103022330070")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2913519f674207a18049cdeb7d80c795c0fc3569")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4f982ad6a6870f43c5d263eb50a1abec51f69bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("jurnalModul6_103022330070")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jurnalModul6_103022330070")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
